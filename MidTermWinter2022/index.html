@@ -1,0 +1,48 @@
+<!-- index.html
+     MidTerm
+     Revision History
+         Pedro Augusto Melo de Sampaio, 2022.02.25: Created 
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="javascript.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tax Calculator</h1>
+    <form name="myForm" action="javascript:void(0);" onsubmit="return validateForm()" method="post">
+        <p>
+            <label for="name">Name*:</label>
+            <input type="text" id="name" name="name">
+        </p>
+        <p>
+            <label for="phone">Phone*:</label>
+            <input type="text" placeholder="123-123-1234" id="phone" name="phone">
+        </p>
+        <p>
+            <label for="email">Email*:</label>
+            <input type="email" name="email" id="email" placeholder="email@domain.com">
+        </p>
+        <p>
+            <label for="employment">Employment Income*: $</label>
+            <input type="text" id="employment" name="employment">
+        </p>
+        <p>
+            <label for="other">Other Income: $</label>
+            <input type="text" id="other" name="other">
+        </p>
+        <p>
+            <label for="paid">Income Taxes Paid*: $</label>
+            <input type="text" id="paid" name="paid">
+        </p>
+        <button>CALCULATE</button>
+    </form>
+    <p></p>
+    <div id="error"></div>
+    <div id="output"></div>
+</body>
+</html>
