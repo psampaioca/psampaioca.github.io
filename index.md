@@ -1,7 +1,7 @@
 ## Hello! Welcome to my Website!
 
 My name is Pedro Sampaio, I'm a student in Conestoga College, Waterloo - ON, Canada. Studying Computer Programming.
-I am a civil engineer with experience in construction management, finance and entrepreneurship. My past works involved mainly controlling projects budget and operations management. I am gaining experience in Web Dev and discovering a new passion.
+I am a civil engineer with experience in construction management, finance and entrepreneurship. My past works involved mainly controlling projects budget and operations management. I am gaining experience in Web Dev and discovering a new passion.<br/>
 
 The main goal here in this website is to provide some projects done during my program in Conestoga. They are going to give some perspective of growing.
 
@@ -9,12 +9,10 @@ The main goal here in this website is to provide some projects done during my pr
 
 Obs.: All these projects are very introdutory and the main goal is to present some information of evolution. All is made up.
 
-```markdown
 Some projects:
 
-- [Last project of my first term in the Conestoga Computer Programming.](https://psampaioca.github.io/FinalExamFallTerm2021/index.html)
-- [Link](url)
-```
+[Last project of my first term in the Conestoga Computer Programming.](https://psampaioca.github.io/FinalExamFallTerm2021/index.html)
+[Link](url)
 
 ### Support or Contact
 
