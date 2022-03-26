@@ -11,8 +11,8 @@ Obs.: All these projects are very introdutory and the main goal is to present so
 
 Some projects:
 
-[Last project of my first term in the Conestoga Computer Programming.](https://psampaioca.github.io/FinalExamFallTerm2021/index.html)
-[Link](url)
+[Last project of my first term in the Conestoga Computer Programming.](https://psampaioca.github.io/FinalExamFallTerm2021/index.html)<br/>
+[MidTerm for Winter term 2022.](https://psampaioca.github.io/MidTermWinter2022/index.html)
 
 ### Support or Contact
 
