@@ -1,0 +1,150 @@
+/* Pedro Augusto Melo de Sampaio
+    pmelodesampaio0518@conestogac.on.ca */
+
+body{
+    width: 1100px;
+    margin: 10px auto;
+    box-shadow: 0 0 10px black;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+header, footer{
+    background-color: #4177a4;
+    padding: 10px 0;
+    text-align: center;
+    color: white;
+}
+
+header h2{
+    font-size: 32px;
+}
+
+nav{
+    background-color: #9bbbe1;
+    padding: 5px;
+    text-align: center;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li{
+    display: inline-block;
+    position: relative;
+}
+nav ul li a{
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+
+main h1{
+    color: #113253;
+    font-size: 32px;
+    text-align: center;
+}
+
+aside h2{
+    color: #113253;
+    font-size: 28px;
+    text-align: center;
+}
+
+.home>header{
+    grid-area: gridheader;
+}
+.home>nav{
+    grid-area: gridnav;
+}
+.home>main{
+    grid-area: gridmain;
+}
+.home>aside{
+    grid-area: gridaside;
+}
+.home>footer{
+    grid-area: gridfooter;
+}
+
+.home{
+    display: grid;
+    grid-template-areas: 
+        "gridheader gridheader gridheader"
+        "gridnav gridnav gridnav"
+        "gridmain gridmain gridaside"
+        "gridfooter gridfooter gridfooter"
+    ;
+}
+
+.home aside{
+    background-color:#b4d1f2;
+    padding: 0 20px 20px 20px;
+}
+.home main{
+    padding: 0 15px 10px 0;
+}
+
+/* Add CSS here */
+nav ul li ul{
+    display: none;
+	position: absolute;
+	z-index: 999;
+	background-color: #9bbbe1;
+    box-shadow: 0 0 5px #b4d1f2;
+    top: 35px;
+    width: 150px;
+}
+nav ul li:hover ul{
+    display: block;
+}
+nav ul li ul a{
+    color: white;
+    padding: 10px 20px;
+    display: block;
+}
+nav ul li ul a:hover {
+	background-color: #4177a4;
+	color: white;
+}
+table{
+    border-collapse: collapse;
+    color: #113253;
+    margin-top: 10px;
+}
+td, th {
+    border: 2px dotted white;
+    padding: 10px;
+    text-align: center;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 8pxpx;
+    margin-left: 40px;
+}
+  
+.column {
+    flex: 50%;
+    padding: 0 8px;
+}
+  
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 600px) {
+
+    /* Add responsive CSS here */
+
+
+}
+
+
