@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to my Website!
 
-You can use the [editor on GitHub](https://github.com/psampaioca/psampaioca.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Pedro Sampaio, I'm a student in Conestoga College, Waterloo - ON, Canada. Studying Computer Programming.
+I am a civil engineer with experience in construction management, finance and entrepreneurship. My past works involved mainly controlling projects budget and operations management. I am gaining experience in Web Dev and discovering a new passion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The main goal here in this website is to provide some projects done during my program in Conestoga. They are going to give some perspective of growing.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Obs.: All these projects are very introdutory and the main goal is to present some information of evolution. All is made up.
 
 ```markdown
-Syntax highlighted code block
+Some projects:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- [Link](url)
+- [Link](url)
 ```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/psampaioca/psampaioca.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Pedro Augusto Melo de Sampaio<br/>
+pmelodesampaio0518@conestogac.on.ca<br/>
+Last update: 2022-03-26
